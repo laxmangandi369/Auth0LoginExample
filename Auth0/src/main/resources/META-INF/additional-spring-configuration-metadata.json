@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "auth0.domain",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.domain'"
+  },
+  {
+    "name": "auth0.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.client.id'"
+  },
+  {
+    "name": "auth0.audience",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.audience'"
+  },
+  {
+    "name": "auth0.oauth.token.url",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.oauth.token.url'"
+  },
+  {
+    "name": "auth0.client.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.client.secret'"
+  },
+  {
+    "name": "access.token.grant.type",
+    "type": "java.lang.String",
+    "description": "A description for 'access.token.grant.type'"
+  },
+  {
+    "name": "auth0.redirect.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.redirect.uri'"
+  },
+  {
+    "name": "password.login.grant.type",
+    "type": "java.lang.String",
+    "description": "A description for 'password.login.grant.type'"
+  },
+  {
+    "name": "auth0.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.scope'"
+  },
+  {
+    "name": "auth0.referesh.token.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.referesh.token.scope'"
+  }
+]}
